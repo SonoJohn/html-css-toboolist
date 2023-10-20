@@ -10,6 +10,10 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+main {
+    padding: 0 10%;
+}
+
 /* HEADER */
 
 header {
@@ -29,7 +33,9 @@ header {
 
 /* MAIN */
 
-/* BACKGROUND SECTION */
-main {
-    background-color: gray;
+/* ADD SECTION */
+
+.button-section {
+    height: 80px;
+    width: 100%;
 }
