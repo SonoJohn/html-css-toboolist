@@ -15,6 +15,7 @@ body {
     font-size: small;
     font-weight: bold;
     border-radius: 5px;
+    vertical-align: middle;
 }
 
 /* HEADER */
@@ -49,5 +50,13 @@ main {
 
 .task-botton {
     color: white;
-    background-color: skyblue;
+    background-color: rgb(4, 162, 224);
+    border: 2px solid rgb(4, 162, 224);
+    margin-left: 5px;
+}
+
+.input-section {
+    color: gray;
+    border: 2px solid gray;
+    border-color: gray;
 }
