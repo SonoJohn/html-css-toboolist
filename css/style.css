@@ -42,7 +42,7 @@ header {
 /* MAIN */
 main {
     padding: 30px 10%;
-    background-color: gray;
+    background-color: lightgray;
 }
 
 /* ADD SECTION */
@@ -60,7 +60,12 @@ main {
 }
 
 .input-section {
-    color: gray;
-    border: 2px solid gray;
-    border-color: gray;
+    color: lightgray;
+    border: 2px solid lightgray;
+    border-color: lightgray;
+}
+
+/* LIST SECTION */
+ul {
+    list-style-type: none;
 }
