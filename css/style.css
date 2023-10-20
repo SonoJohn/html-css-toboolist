@@ -10,6 +10,13 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+.add {
+    padding: 5px 10px;
+    font-size: small;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
 /* HEADER */
 header {
     height: 80px;
@@ -38,4 +45,9 @@ main {
     width: 100%;
     background-color: white;
     margin-bottom: 5px;
+}
+
+.task-botton {
+    color: white;
+    background-color: skyblue;
 }
