@@ -23,6 +23,17 @@ section {
     line-height: 60px;
 }
 
+.checkmark {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 50%;
+    line-height: 15px;
+    text-align: center;
+    font-size: x-small;
+}
+
 /* HEADER */
 header {
     height: 80px;
@@ -66,6 +77,17 @@ main {
 }
 
 /* LIST SECTION */
+.list-container {
+    border: 3px solid white;
+    padding-top: 20xp;
+}
+
 ul {
     list-style-type: none;
+    margin-top: 10px;
+}
+
+li {
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
