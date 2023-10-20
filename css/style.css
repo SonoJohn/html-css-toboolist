@@ -10,13 +10,7 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-
-main {
-    padding: 30px 10%;
-}
-
 /* HEADER */
-
 header {
     height: 80px;
     line-height: 80px;
@@ -33,10 +27,15 @@ header {
 }
 
 /* MAIN */
+main {
+    padding: 30px 10%;
+    background-color: gray;
+}
 
 /* ADD SECTION */
-
 .button-section {
     height: 40px;
     width: 100%;
+    background-color: white;
+    margin-bottom: 5px;
 }
