@@ -32,6 +32,8 @@ section {
     line-height: 15px;
     text-align: center;
     font-size: x-small;
+    font-weight: bold;
+    margin-right: 10px;
 }
 
 /* HEADER */
@@ -90,4 +92,14 @@ ul {
 li {
     margin-top: 20px;
     margin-bottom: 10px;
+}
+
+.done {
+    color: green;
+    border-color: green;
+}
+
+.undone {
+    color: red;
+    border-color: red;
 }
