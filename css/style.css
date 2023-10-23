@@ -41,7 +41,6 @@ section {
     padding: 5px 10px;
     border-radius: 8px;
     color: white;
-    background-color: blue;
 }
 
 /* HEADER */
@@ -110,4 +109,28 @@ li {
 .undone {
     color: red;
     border-color: red;
+}
+
+.editorial {
+    background-color: rgb(4, 162, 224);
+}
+
+.goals {
+    background-color: rgb(124, 61, 139);
+}
+
+.recruiting {
+    background-color: rgb(3, 124, 114);
+}
+
+.mobile {
+    background-color: orange;
+}
+
+.website {
+    background-color: palevioletred;
+}
+
+.sales {
+    background-color: rgb(107, 177, 1);
 }
