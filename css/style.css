@@ -36,6 +36,14 @@ section {
     margin-right: 10px;
 }
 
+.label {
+    font-size: x-small;
+    padding: 5px 10px;
+    border-radius: 8px;
+    color: white;
+    background-color: blue;
+}
+
 /* HEADER */
 header {
     height: 80px;
