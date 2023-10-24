@@ -21,6 +21,11 @@ section {
     font-weight: bold;
     border-radius: 5px;
     line-height: 60px;
+    cursor: pointer;
+}
+
+h3 {
+    cursor: pointer;
 }
 
 .checkmark {
@@ -34,6 +39,7 @@ section {
     font-size: x-small;
     font-weight: bold;
     margin-right: 10px;
+    cursor: pointer;
 }
 
 .label {
